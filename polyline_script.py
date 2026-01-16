@@ -7,7 +7,7 @@ def make_polyline(polyline_coordinates):
     column = None
     for i in range(len(polyline_coordinates)):
       if i > 0:
-        coordinates[i] = f"{(polyline_coordinates[i]*32) + column},{i * multiplier}"
+        coordinates[i] = f"{(polyline_coordinates[i]*4) + column},{i * multiplier}"
       else:
         column = polyline_coordinates[i]
         coordinates[i] = f"{column},0"
@@ -24,7 +24,7 @@ def make_polyline_for_animation(polyline_coordinates):
     column = None
     for i in range(len(polyline_coordinates)):
       if i > 0:
-        coordinates[i] = f"{math.floor(polyline_coordinates[i]*3) + column},{i * multiplier}"
+        coordinates[i] = f"{math.floor(polyline_coordinates[i]*1.5) + column},{i * multiplier}"
       else:
         column = polyline_coordinates[i]
         coordinates[i] = f"{column},0"
