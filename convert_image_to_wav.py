@@ -10,8 +10,8 @@ day_of_week = now.strftime("%A")  # Full weekday name, e.g., 'Monday'
 calendar_day = now.day            # Day of the month, e.g., 12
 month = now.strftime("%B")        # Full month name, e.g., 'February'
 year = now.year                   # Year, e.g., 2025
-fft_size = 1024 
-windows = 800 
+fft_size = 512 
+windows = 400 
 
 def convert_image_to_wav(output_file, input_image, samplerate, bandwidth):
     img2wav(
