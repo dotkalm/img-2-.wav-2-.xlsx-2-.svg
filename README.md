@@ -1,5 +1,4 @@
-![ice_cream_with_diagonals_Friday_16_January_2026](https://github.com/user-attachments/assets/5711ab2e-1487-42ca-9521-704c1f8fc345)
-
+![ice_cream_with_diagonals_Friday_16_January_2026](https://github.com/user-attachments/assets/1ab50aba-0adc-4ec6-98ec-1172b405c1a2)
 how to use at the moment
 prepare an image
 1. add borders
@@ -24,6 +23,4 @@ In Vim, to delete each occurrence of a comma followed by any characters and then
 :%s/,[^ ]* //g
 In Vim, to delete each occurrence of a comma followed by a space, then any characters, then a period (, ... .), use this command:
 :%s/, [^\.]*\.//g
-
-
 
