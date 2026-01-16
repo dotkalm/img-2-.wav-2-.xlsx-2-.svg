@@ -1,5 +1,16 @@
-![ice_cream_with_diagonals_Friday_16_January_2026](https://github.com/user-attachments/assets/1ab50aba-0adc-4ec6-98ec-1172b405c1a2)
-how to use at the moment
+<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 0 0 300px;">
+    <div style="width: 300px; height: 400px; overflow: hidden; border: 1px solid #ccc;">
+      <img src="https://github.com/user-attachments/assets/1ab50aba-0adc-4ec6-98ec-1172b405c1a2" width="140%" />
+    </div>
+  </div>
+  <div style="flex: 1;">
+    <h1>FFT Thing</h1>
+    <p>Image to audio visualization tool</p>
+  </div>
+</div>
+
+## How to use at the moment
 prepare an image
 1. add borders
 2. invert
