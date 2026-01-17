@@ -6,9 +6,13 @@
   </div>
   <div style="flex: 1;">
     <h1>FFT Thing</h1>
-    <p>Image to audio visualization tool</p>
+    <p>Novel image processing software</p>
   </div>
 </div>
+
+<img width="875" height="913" alt="Screenshot 2026-01-16 at 5 23 21 PM" src="https://github.com/user-attachments/assets/792ab64a-e18e-4f3d-8da4-b3018824a5ff" />
+
+
 
 ## How to use at the moment
 prepare an image
