@@ -1,18 +1,18 @@
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
+
+
+</div>
+  <div style="flex: 1;">
+    <h1>FFT Thing</h1>
+    <p>A way of animating a still image through an analog process </p>
+  </div>
+<img width="70%" alt="Screenshot 2026-01-16 at 5 23 21 PM" src="https://github.com/user-attachments/assets/792ab64a-e18e-4f3d-8da4-b3018824a5ff" />
+
   <div style="flex: 0 0 300px;">
     <div style="width: 300px; height: 400px; overflow: hidden; border: 1px solid #ccc;">
       <img src="https://github.com/user-attachments/assets/1ab50aba-0adc-4ec6-98ec-1172b405c1a2" width="140%" />
     </div>
   </div>
-  <div style="flex: 1;">
-    <h1>FFT Thing</h1>
-    <p>Novel image processing software</p>
-  </div>
-</div>
-
-<img width="70%" alt="Screenshot 2026-01-16 at 5 23 21 PM" src="https://github.com/user-attachments/assets/792ab64a-e18e-4f3d-8da4-b3018824a5ff" />
-
-
 
 ## How to use at the moment
 prepare an image
